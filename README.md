@@ -5,11 +5,13 @@ monkey3d is a project to bring jmonkeyengine in jruby with fancy classes and hel
 
 To build your application under:
 
-*linux:
+* linux:
 	rake bonobo:screech
-*windows
+
+* windows
 	rake lemur:screech
-*macosx
+
+* macosx
 	rake macaco:screech
 
 
