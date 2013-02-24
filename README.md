@@ -16,8 +16,11 @@ To build your application under:
 
 
  The names of the three wise monkeys are: 
+
       Mizaru: See no evil,
+
       Mikazaru: Hear no evil, 
+
       and Mazaru: Speak no evil.
 
 
