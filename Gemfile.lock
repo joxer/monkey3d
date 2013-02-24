@@ -1,0 +1,12 @@
+GEM
+  remote: http://gems.neurogami.com/
+  specs:
+    rawr (1.3.9)
+      rubyzip
+    rubyzip (0.9.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rawr

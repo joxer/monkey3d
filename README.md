@@ -1,4 +1,47 @@
-bonobo3d
+monkey3d
 ========
 
-bonobo3d is a project to bring jmonkeyengine in jruby with fancy classes and helpers
+monkey3d is a project to bring jmonkeyengine in jruby with fancy classes and helpers
+
+To build your application under:
+
+*linux:
+	rake bonobo:screech
+*windows
+	rake lemur:screech
+*macosx
+	rake macaco:screech
+
+
+ The names of the three wise monkeys are: 
+      Mizaru: See no evil,
+      Mikazaru: Hear no evil, 
+      and Mazaru: Speak no evil.
+
+
+         .-"-.
+       _/.-.-.\_
+      ( ( o o ) )
+       |/  "  \|    speak no evil...
+        \'/^\'/
+        /`\ /`\
+       /  /|\  \
+      ( (/ T \) )
+       \__/^\__/
+
+
+         .-"-.
+       _/_-.-_\_
+      / __> <__ \
+     / //  "  \\ \   see no evil...
+    / / \'---'/ \ \
+    \ \_/`"""`\_/ /
+     \           /
+
+         .-"-.
+       _/_-.-_\_
+      /|( o o )|\
+     | //  "  \\ |   hear no evil...
+    / / \'---'/ \ \
+    \ \_/`"""`\_/ /
+     \           /
