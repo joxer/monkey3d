@@ -12,7 +12,8 @@ else
   }
 end
 require 'monkey'
-
+puts $:
+puts __FILE__
 Monkey::Sample::SampleBox.new.start
 
 =begin

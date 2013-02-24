@@ -12,8 +12,8 @@ else
   }
 end
 require 'monkey'
-
-Monkey::Sample::SampleBox.new.start
+#puts __FILE__
+#Monkey::Sample::SampleBox.new.start
 
 =begin
 import com.jme3.app.SimpleApplication;
